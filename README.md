@@ -1,2 +1,2 @@
 # my_launchx_app
-uso de test con js
+Creación de proyectos de JS
